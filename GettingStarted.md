@@ -10,8 +10,8 @@
 ## How to access WhatsApp Web or the Desktop app
 
 There are two ways to access your WhatsApp account on your PC or Mac computer:
-- Use the web app. Go to [whatsapp web](https://web.whatsapp.com) in a web browser.
-- Use the desktop app. Install the WhatsApp desktop app on your Mac or Windows computer from the WhatsApp download page.
+- Use the web app. Go to [WhatsApp web](https://web.whatsapp.com) in a web browser.
+- Use the desktop app. Install the WhatsApp desktop app on your Mac or Windows computer from the [WhatsApp download page](https://www.whatsapp.com/download).
  
  ---
  
