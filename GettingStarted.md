@@ -11,7 +11,13 @@ There are two ways to access your WhatsApp account on your PC or Mac computer:
 - [x] Use the web app. Go to <a href="https://web.whatsapp.com" target="_blank">whatsapp web</a> in a web browser.
   1. Once you've opened the webpage or installed and run the desktop app, you should see a **QR code** on your computer.
   2. Start **WhatsApp on your phone**.
-  3. Tap **Settings**. On *iPhone*, you'll find **Settings** at the bottom right of the screen, but on *Android* tap the **three-dot menu** at the top right and then choose **Settings** in the drop-down menu.
+  3. Tap **Settings**. 
+    - On *iPhone*, you'll find **Settings** at the bottom right of the screen
+    - On *Android* tap the **three-dot menu** at the top right and then choose **Settings** in the drop-down menu.
+  5. To the right of your account name, tap the QR code icon.
+  6. On the QR code screen, get ready to scan. On iPhone, tap Scan at the bottom of the page; on Android, tap the Scan Code tab at the top.
+  7. Point your phone's camera at the QR code in WhatsApp on your computer.
+  8. If this is your first time using WhatsApp on the computer, you will see the Device Login Detected pop-up. Tap Continue and then tap Link a Device.
 
 
 - [ ] Use the desktop app. Install the WhatsApp desktop app on your Mac or Windows computer from the WhatsApp download page.
