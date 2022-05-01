@@ -38,10 +38,14 @@ There are two ways to access your WhatsApp account on your PC or Mac computer:
 
 |Feature|Details|
 |:---:|:---:|
-|Commonalities|Profile Changes can be made from **Account** icon;Control User Interactions from **Contact** icon;Start New Chat and see Starred messages|
-|Advantages|Easier to type using keyboard and mouse;Simultaneous Whatsapp accounts in multiple browser windows|
-|Mandate|Always need WhatsApp mobile app to login to WhatsApp Web|
+|Commonalities|Profile Changes can be made from **Account** icon;Control User Interactions[^1] from **Contact** icon;Start New Chat and see Starred messages|
+|Advantages|Easier to type using keyboard and mouse;Simultaneous Whatsapp accounts opened in multiple browser windows|
+
+---
+
+### Though there are some significant advantages to using WhatsApp Web or the desktop app, we always need our phone to log into WhatsApp on the computer — there's no way to use WhatsApp Web without our mobile app.
 
 
 
 [1]: https://en.wikipedia.org/wiki/WhatsApp (Whatsapp Wiki)
+[^1]: start an audio or video call, for example, mute notifications, block or report the user, and delete the chat
