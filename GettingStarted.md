@@ -1,6 +1,6 @@
 # How to set up WhatsApp Web and use the messaging platform from your computer
 
-### Most people are familiar with using [WhatsApp][1] via a mobile app on their phone, but not everyone is aware that it's also possible to use WhatsApp on the computer desktop — either in a web browser or using a desktop app. The main difference? You still need to log into WhatsApp on the computer using your WhatsApp mobile app.
+### Most people are familiar with using [WhatsApp][1] via a mobile app on their phone, but not everyone is aware that it's also possible to use WhatsApp on the computer desktop — either in a web browser or using a desktop app. The main difference is You still need to log into WhatsApp on the computer using your WhatsApp mobile app.
 - You can use *WhatsApp Web* from your computer's browser by linking your account through a QR code from the WhatsApp mobile app.
 - You can also use WhatsApp from your computer by installing the *WhatsApp desktop* application.
 - You can open *multiple WhatsApp accounts* on your computer as long as you use a different browser window for each one.
@@ -43,7 +43,7 @@ There are two ways to access your WhatsApp account on your PC or Mac computer:
 
 ---
 
-### Though there are some significant advantages to using WhatsApp Web or the desktop app, we always need our phone to log into WhatsApp on the computer — there's no way to use WhatsApp Web without our mobile app.
+### Though there are some significant advantages to using WhatsApp Web or the desktop app, you always need your phone to log into WhatsApp on the computer — there's no way to use WhatsApp Web without your mobile app.
 
 
 
